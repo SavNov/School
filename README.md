@@ -1,0 +1,3 @@
+# School
+
+[Test](test.md)
