@@ -4,3 +4,4 @@
   * [Courses](Courses) -- My Courses
   * [Schedule](Schedule) -- My Schedule
   * [Exams](Exams) -- My Exams and Exam Dates
+  * [Hello](Hello)

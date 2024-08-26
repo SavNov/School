@@ -1,0 +1,18 @@
+@document.meta
+title: index
+description: An index of my School stuff.
+authors: aidanw
+categories: 
+created: 2024-08-23T17:00:16-0500
+updated: 2024-08-23T20:26:09-0500
+version: 1.1.1
+@end
+
+* School
+  - [Tasks]{:Tasks:} -- things to be done
+  - [Scratchpad]{:Scratchpad:} -- various temporary stuff.
+  - [Courses]{:Courses:} -- My Courses
+  - [Schedule]{:Schedule:} *My Schedules*
+  - [Exams]{:Exams:} -- My Exams and Exam Dates
+  - [Hello]{:Hello:}
+    [image]{file:///home/aidanw/Downloads/6.jpg}
